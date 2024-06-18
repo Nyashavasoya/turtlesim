@@ -1,1 +1,6 @@
-/build\n/install\n/log
+
+# ROS2 specific
+/build
+/install
+/log
+
