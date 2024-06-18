@@ -1,7 +1,0 @@
-[console_scripts]
-turtle_action_server = turtlesim_project.turtle_action_server:main
-turtle_controller = turtlesim_project.turtle_controller:main
-turtle_mover = turtlesim_project.turtle_mover:main
-turtle_parameters = turtlesim_project.turtle_parameters:main
-turtle_spawner = turtlesim_project.turtle_spawner:main
-
