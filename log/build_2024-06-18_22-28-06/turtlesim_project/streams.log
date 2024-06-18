@@ -1,0 +1,26 @@
+[1.897s] Invoking command in '/home/nyasha/ros2_ws2/src/turtlesim_project': PYTHONPATH=/home/nyasha/ros2_ws2/build/turtlesim_project/prefix_override:/home/nyasha/ros2_ws2/install/turtlesim_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_project build --build-base /home/nyasha/ros2_ws2/build/turtlesim_project/build install --record /home/nyasha/ros2_ws2/build/turtlesim_project/install.log --single-version-externally-managed install_data
+[2.651s] running egg_info
+[2.653s] writing ../../build/turtlesim_project/turtlesim_project.egg-info/PKG-INFO
+[2.654s] writing dependency_links to ../../build/turtlesim_project/turtlesim_project.egg-info/dependency_links.txt
+[2.656s] writing entry points to ../../build/turtlesim_project/turtlesim_project.egg-info/entry_points.txt
+[2.657s] writing requirements to ../../build/turtlesim_project/turtlesim_project.egg-info/requires.txt
+[2.658s] writing top-level names to ../../build/turtlesim_project/turtlesim_project.egg-info/top_level.txt
+[2.665s] reading manifest file '../../build/turtlesim_project/turtlesim_project.egg-info/SOURCES.txt'
+[2.669s] writing manifest file '../../build/turtlesim_project/turtlesim_project.egg-info/SOURCES.txt'
+[2.670s] running build
+[2.670s] running build_py
+[2.671s] copying turtlesim_project/turtle_mover.py -> /home/nyasha/ros2_ws2/build/turtlesim_project/build/lib/turtlesim_project
+[2.672s] running install
+[2.673s] running install_lib
+[2.677s] copying /home/nyasha/ros2_ws2/build/turtlesim_project/build/lib/turtlesim_project/turtle_mover.py -> /home/nyasha/ros2_ws2/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project
+[2.678s] byte-compiling /home/nyasha/ros2_ws2/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project/turtle_mover.py to turtle_mover.cpython-310.pyc
+[2.681s] running install_data
+[2.682s] running install_egg_info
+[2.689s] removing '/home/nyasha/ros2_ws2/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project-0.0.0-py3.10.egg-info' (and everything under it)
+[2.695s] Copying ../../build/turtlesim_project/turtlesim_project.egg-info to /home/nyasha/ros2_ws2/install/turtlesim_project/lib/python3.10/site-packages/turtlesim_project-0.0.0-py3.10.egg-info
+[2.696s] running install_scripts
+[2.767s] Installing turtle_controller script to /home/nyasha/ros2_ws2/install/turtlesim_project/lib/turtlesim_project
+[2.769s] Installing turtle_mover script to /home/nyasha/ros2_ws2/install/turtlesim_project/lib/turtlesim_project
+[2.770s] Installing turtle_spawner script to /home/nyasha/ros2_ws2/install/turtlesim_project/lib/turtlesim_project
+[2.771s] writing list of installed files to '/home/nyasha/ros2_ws2/build/turtlesim_project/install.log'
+[2.834s] Invoked command in '/home/nyasha/ros2_ws2/src/turtlesim_project' returned '0': PYTHONPATH=/home/nyasha/ros2_ws2/build/turtlesim_project/prefix_override:/home/nyasha/ros2_ws2/install/turtlesim_project/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/turtlesim_project build --build-base /home/nyasha/ros2_ws2/build/turtlesim_project/build install --record /home/nyasha/ros2_ws2/build/turtlesim_project/install.log --single-version-externally-managed install_data
